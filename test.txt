@@ -3,3 +3,4 @@ It's new line
 Add new line
 Branch
 Testing rebase
+Merge vs rebase
