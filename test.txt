@@ -6,3 +6,4 @@ Testing rebase
 Merge vs rebase
 Merge vs rebase 222222
 Remote change
+Another line
